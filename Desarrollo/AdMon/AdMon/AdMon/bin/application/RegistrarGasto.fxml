@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="425.0" prefWidth="561.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.RegistrarGastoController">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="278.0" text="Agregar gasto">
+         <font>
+            <Font name="Dubai Regular" size="27.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtConceptoGts" layoutX="14.0" layoutY="101.0" prefHeight="25.0" prefWidth="531.0" />
+      <Label layoutX="14.0" layoutY="72.0" prefHeight="32.0" prefWidth="191.0" text="Concepto">
+         <font>
+            <Font name="Dubai Light" size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtMontoGts" layoutX="21.0" layoutY="161.0" prefHeight="25.0" prefWidth="221.0" promptText="0" />
+      <Label layoutX="9.0" layoutY="157.0" prefHeight="32.0" prefWidth="23.0" text="\$">
+         <font>
+            <Font name="Dubai Light" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="129.0" prefHeight="32.0" prefWidth="191.0" text="Monto">
+         <font>
+            <Font name="Dubai Light" size="18.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="cmbClasificacionGts" layoutX="281.0" layoutY="161.0" prefHeight="25.0" prefWidth="263.0" promptText="Clasificación" />
+      <ComboBox fx:id="cmbFondosDisponibles" layoutX="14.0" layoutY="224.0" prefHeight="25.0" prefWidth="263.0" promptText="Fondo a tomar" />
+      <Label layoutX="14.0" layoutY="192.0" prefHeight="32.0" prefWidth="191.0" text="Fondo a tomar">
+         <font>
+            <Font name="Dubai Light" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnGastoListo" layoutX="443.0" layoutY="217.0" mnemonicParsing="false" onAction="#finalizadoIngreso" prefHeight="40.0" prefWidth="101.0" text="Finzalizado">
+         <font>
+            <Font name="Georgia" size="12.0" />
+         </font>
+      </Button>
+      <RadioButton fx:id="rdButtonPagarConDeuda" layoutX="301.0" layoutY="229.0" mnemonicParsing="false" onAction="#pagarConDeuda" prefHeight="17.0" prefWidth="119.0" text="Pagar con deuda" />
+      <Label fx:id="lblRegistroDeuda" layoutX="14.0" layoutY="270.0" prefHeight="17.0" prefWidth="278.0" text="Registrar Nueva Deuda" visible="false">
+         <font>
+            <Font name="Dubai Regular" size="27.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblConcepto" layoutX="14.0" layoutY="322.0" prefHeight="32.0" prefWidth="191.0" text="Concepto de deuda" visible="false">
+         <font>
+            <Font name="Dubai Light" size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtConptoDeuda" layoutX="14.0" layoutY="351.0" prefHeight="25.0" prefWidth="531.0" visible="false" />
+      <Button fx:id="btnDescartar" layoutX="21.0" layoutY="393.0" mnemonicParsing="false" onAction="#descartarGasto" prefHeight="25.0" prefWidth="101.0" style="-fx-background-color: red;" text="Descartar" textFill="WHITE">
+         <font>
+            <Font name="Georgia" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

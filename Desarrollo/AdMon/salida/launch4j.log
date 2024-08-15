@@ -1,0 +1,1143 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	M:\Daniel Bermeo\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MariaDB 10.11\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\atom\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	M:\altera\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 7 - 9
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	M:\Daniel Bermeo\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MariaDB 10.11\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\atom\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	M:\altera\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 7 - 9
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	M:\Daniel Bermeo\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MariaDB 10.11\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\atom\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	M:\Daniel Bermeo\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	M:\altera\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 7 - 9
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.022.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.022.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-11.0.2\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-11.0.2\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;C:\Program Files\Java\jdk-11.0.2\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Version string: 1.011.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 15 - 22
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 15 - 22
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 15 - 22
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000
+Java max ver:	1.009.000
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.015.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.020.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.020.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.020.000
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	1.020.000
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path M:\DanielBermeo\JavaFX\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path M:\DanielBermeo\JavaFX\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path M:\DanielBermeo\JavaFX\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Daniel Bermeo\Desktop\AdMon\salida\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Java\jdk-17\bin;M:\Daniel Bermeo\Windows Performance Toolkit\;M:\Daniel Bermeo\Microsoft Application Virtualization\Sequencer\;C:\Program Files\Git\cmd;C:\Program Files\MariaDB 10.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Daniel Bermeo\AppData\Local\Programs\Python\Python310\;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Users\Daniel Bermeo\AppData\Local\atom\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\Daniel Bermeo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Users\Daniel Bermeo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daniel Bermeo\AppData\Local\GitHubDesktop\bin;M:\Daniel Bermeo\modelsim_ase\win32aloem;M:\altera\modelsim_ase\win32aloem;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\QuickTime\QTSystem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path M:\DanielBermeo\JavaFX\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\Daniel Bermeo\Desktop\AdMon\salida\AdMon.exe"
+Args length:	143/32768 chars
+Exit code:	0

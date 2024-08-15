@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="499.0" maxWidth="638.0" minHeight="498.0" minWidth="637.0" prefHeight="499.0" prefWidth="638.0" scaleShape="false" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.IndexController">
+   <children>
+      <TabPane prefHeight="499.0" prefWidth="638.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab fx:id="tabGeneral" text="General">
+               <content>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="278.0" text="Estado Financiero Actual">
+                           <font>
+                              <Font name="Dubai Regular" size="27.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="62.0" prefHeight="22.0" prefWidth="94.0" text="Capital Total">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblCapitalTotal" layoutX="14.0" layoutY="90.0" prefHeight="41.0" prefWidth="206.0" text="\$ 145" textFill="#247c1d">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="245.0" layoutY="62.0" prefHeight="32.0" prefWidth="148.0" text="Deuda Total Activa">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblDeudaTotal" layoutX="245.0" layoutY="90.0" prefHeight="41.0" prefWidth="215.0" text="\$ 145" textFill="#900c0c">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblEstabilidad" layoutX="465.0" layoutY="90.0" prefHeight="41.0" prefWidth="161.0" text="\$ 145" textFill="#6283c6">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="465.0" layoutY="62.0" prefHeight="22.0" prefWidth="94.0" text="Estabilidad">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblFondos" layoutX="8.0" layoutY="135.0" onMouseClicked="#seleccionTabla" prefHeight="309.0" prefWidth="511.0">
+                          <columns>
+                            <TableColumn fx:id="clmnNomFondo" prefWidth="275.0" text="Fondos" />
+                            <TableColumn fx:id="clmnMontoDeseado" prefWidth="125.0" text="Monto deseado" />
+                              <TableColumn fx:id="clmnCapitalAct" minWidth="-1.0" prefWidth="110.0" text="Capital actual" />
+                          </columns>
+                        </TableView>
+                        <Button fx:id="btnCrearFondo" layoutX="532.0" layoutY="135.0" mnemonicParsing="false" onAction="#crearFondo" prefHeight="40.0" prefWidth="101.0" text="Crear Fondo">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnDetalleFondo" disable="true" layoutX="535.0" layoutY="405.0" mnemonicParsing="false" onAction="#detalleFondo" prefHeight="40.0" prefWidth="96.0" text="Ver detalle">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnEditarFondo" disable="true" layoutX="532.0" layoutY="186.0" mnemonicParsing="false" onAction="#editarFondo" prefHeight="40.0" prefWidth="102.0" text="Editar Fondo">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnAnadirIngresoGnrl" layoutX="534.0" layoutY="235.0" mnemonicParsing="false" onAction="#anadirIngresoGnrl" prefHeight="40.0" prefWidth="100.0" text="Añadir ingreso">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnRegistrarGastoGnrl" layoutX="533.0" layoutY="290.0" mnemonicParsing="false" onAction="#registrarGastoGnrl" prefHeight="40.0" prefWidth="100.0" text="Registrar Gasto">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnPagarDeuda" layoutX="534.0" layoutY="339.0" mnemonicParsing="false" onAction="#pagarDeuda" prefHeight="40.0" prefWidth="100.0" text="Pagar Deuda">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </Pane>
+               </content>
+          </Tab>
+          <Tab fx:id="tabIngresos" text="Ingresos">
+               <content>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Label fx:id="lblTituloTabla" layoutX="14.0" layoutY="79.0" prefHeight="48.0" prefWidth="211.0" text="Ultimos Ingresos">
+                           <font>
+                              <Font name="Dubai Regular" size="27.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblSumatoriaIngresosNum" layoutX="12.0" layoutY="46.0" prefHeight="41.0" prefWidth="206.0" text="\$ 145" textFill="#3572ae">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblTitSumatoriaIng" layoutX="14.0" layoutY="14.0" prefHeight="32.0" prefWidth="202.0" text="Ingresos en el mes actual">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblIngresos" layoutX="14.0" layoutY="163.0" prefHeight="293.0" prefWidth="614.0">
+                          <columns>
+                            <TableColumn fx:id="clmnFechaIngreso" prefWidth="131.0" text="Fecha" />
+                            <TableColumn fx:id="clmnMontoIngreso" prefWidth="92.0" text="Monto" />
+                              <TableColumn fx:id="clmConceptoIngreso" prefWidth="237.0" text="Concepto" />
+                              <TableColumn fx:id="clmnFondoDestino" prefWidth="153.0" text="Fondo Destino" />
+                          </columns>
+                        </TableView>
+                        <Button fx:id="btnAnadirIngreso" layoutX="524.0" layoutY="117.0" mnemonicParsing="false" onAction="#anadirIngreso" prefHeight="40.0" prefWidth="100.0" text="Añadir ingreso">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnFiltrarIngresos" layoutX="389.0" layoutY="117.0" mnemonicParsing="false" onAction="#filtrarIngresos" prefHeight="40.0" prefWidth="100.0" text="Filtrar">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <DatePicker fx:id="dateInicioIngresos" layoutX="43.0" layoutY="126.0" prefHeight="25.0" prefWidth="154.0" />
+                        <Label layoutX="14.0" layoutY="122.0" prefHeight="32.0" prefWidth="31.0" text="De:">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="208.0" layoutY="121.0" prefHeight="32.0" prefWidth="17.0" text="a:">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <DatePicker fx:id="dateFinalingresos" layoutX="225.0" layoutY="126.0" prefHeight="25.0" prefWidth="154.0" />
+                     </children>
+                  </Pane>
+               </content>
+          </Tab>
+            <Tab fx:id="tabGastos" text="Gastos">
+               <content>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Label fx:id="lblRiruloTablaGastos" layoutX="14.0" layoutY="79.0" prefHeight="48.0" prefWidth="211.0" text="Ultimos Gastos">
+                           <font>
+                              <Font name="Dubai Regular" size="27.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblSumatoriaGastosNum" layoutX="12.0" layoutY="46.0" prefHeight="41.0" prefWidth="206.0" text="\$ 145" textFill="#3572ae">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblTitSumatoriaGts" layoutX="14.0" layoutY="14.0" prefHeight="32.0" prefWidth="202.0" text="Gastos en el mes actual">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblGastos" layoutX="14.0" layoutY="163.0" prefHeight="293.0" prefWidth="614.0">
+                           <columns>
+                              <TableColumn fx:id="clmFechaGasto" prefWidth="131.0" text="Fecha" />
+                              <TableColumn fx:id="clmnMontoGasto" prefWidth="92.0" text="Monto" />
+                              <TableColumn fx:id="clmnConceptoGasto" prefWidth="191.0" text="Concepto" />
+                              <TableColumn fx:id="clmnClasificacion" text="Clasificacion" />
+                              <TableColumn fx:id="clmnFondoTomado" prefWidth="119.0" text="Fondo " />
+                           </columns>
+                        </TableView>
+                        <Button fx:id="btnRegistrarGasto" layoutX="524.0" layoutY="117.0" mnemonicParsing="false" onAction="#registrarGasto" prefHeight="40.0" prefWidth="100.0" text="Registrar gasto">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnFiltrarGastos" layoutX="388.0" layoutY="117.0" mnemonicParsing="false" onAction="#filtrarGastos" prefHeight="40.0" prefWidth="100.0" text="Filtrar">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Label layoutX="14.0" layoutY="123.0" prefHeight="32.0" prefWidth="31.0" text="De:">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="208.0" layoutY="121.0" prefHeight="32.0" prefWidth="17.0" text="a:">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <DatePicker fx:id="dateInicioGastos" layoutX="43.0" layoutY="127.0" prefHeight="25.0" prefWidth="154.0" />
+                        <DatePicker fx:id="dateFinGastos" layoutX="225.0" layoutY="127.0" prefHeight="25.0" prefWidth="154.0" />
+                     </children>
+                  </Pane>
+               </content>
+            </Tab>
+            <Tab fx:id="tabSaldosAct" text="Saldos Activos">
+               <content>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="14.0" layoutY="16.0" prefHeight="32.0" prefWidth="202.0" text="Total de Saldo Activo">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblSaldoTotalAct" layoutX="12.0" layoutY="40.0" prefHeight="41.0" prefWidth="206.0" text="\$ 145" textFill="#3572ae">
+                           <font>
+                              <Font name="Dubai Medium" size="22.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblSaldosActivos" layoutX="15.0" layoutY="123.0" prefHeight="144.0" prefWidth="616.0">
+                          <columns>
+                            <TableColumn fx:id="clmnDeuda" prefWidth="292.0" text="Gasto Perteneciente" />
+                            <TableColumn fx:id="clmnFechaSaldo" minWidth="4.0" prefWidth="169.0" text="Fecha de registro" />
+                              <TableColumn fx:id="clmnMontoPendiente" prefWidth="154.0" text="Monto pendiente" />
+                          </columns>
+                        </TableView>
+                        <Label layoutX="14.0" layoutY="75.0" prefHeight="48.0" prefWidth="211.0" text="Saldos activos">
+                           <font>
+                              <Font name="Dubai Regular" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="273.0" prefHeight="34.0" prefWidth="211.0" text="Buscar Saldos">
+                           <font>
+                              <Font name="Dubai Regular" size="22.0" />
+                           </font>
+                        </Label>
+                        <DatePicker fx:id="dateFechaBusquedaSaldo" layoutX="153.0" layoutY="298.0" />
+                        <Label layoutX="154.0" layoutY="266.0" prefHeight="22.0" prefWidth="94.0" text="Fecha">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblBusquedaSaldos" layoutX="15.0" layoutY="329.0" prefHeight="123.0" prefWidth="613.0">
+                           <columns>
+                              <TableColumn fx:id="clmnFechaSaldoB" prefWidth="153.0" text="Fecha de Registro" />
+                              <TableColumn fx:id="clmnDeudaB" prefWidth="269.0" text="Gasto Perteneciente" />
+                              <TableColumn fx:id="clmnFondoPago" prefWidth="190.0" text="Concepto" />
+                           </columns>
+                        </TableView>
+                        <Label layoutX="341.0" layoutY="266.0" prefHeight="22.0" prefWidth="94.0" text="Gasto">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <ComboBox fx:id="cmbSeleccDeuda" layoutX="341.0" layoutY="298.0" prefHeight="25.0" prefWidth="168.0" />
+                        <Button fx:id="btnBuscarSaldos" layoutX="519.0" layoutY="283.0" mnemonicParsing="false" onAction="#buscarSaldos" prefHeight="40.0" prefWidth="109.0" text="Buscar">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </Pane>
+               </content>
+            </Tab>
+            <Tab fx:id="tabDeudaHist" text="Deuda historica">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="278.0" text="Historico de deudas">
+                           <font>
+                              <Font name="Dubai Regular" size="27.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="tblHistoricoDeuda" layoutX="14.0" layoutY="119.0" prefHeight="335.0" prefWidth="604.0">
+                          <columns>
+                            <TableColumn fx:id="clmConceptoDeuda" prefWidth="257.0" text="Concepto" />
+                            <TableColumn fx:id="clmnMontoDeuda" minWidth="4.0" prefWidth="129.0" text="Monto" />
+                              <TableColumn fx:id="clmnEstadoDeuda" prefWidth="75.0" text="Estado" />
+                              <TableColumn fx:id="clmnFechaDeuda" prefWidth="142.0" text="Fecha" />
+                          </columns>
+                        </TableView>
+                        <Button fx:id="btnFiltrarHD" layoutX="518.0" layoutY="62.0" mnemonicParsing="false" onAction="#iltrarHistoricoDeuda" prefHeight="40.0" prefWidth="100.0" text="Filtrar">
+                           <font>
+                              <Font name="Georgia" size="12.0" />
+                           </font>
+                        </Button>
+                        <Label layoutX="18.0" layoutY="53.0" prefHeight="22.0" prefWidth="94.0" text="Estado">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="178.0" layoutY="49.0" prefHeight="22.0" prefWidth="94.0" text="Fecha">
+                           <font>
+                              <Font name="Dubai Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <DatePicker fx:id="dateFechaFiltroHD" layoutX="178.0" layoutY="89.0" />
+                        <RadioButton fx:id="rdoSoloDeudasActivas" layoutX="22.0" layoutY="89.0" mnemonicParsing="false" text="Solo activas" />
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</Pane>
