@@ -21,8 +21,8 @@
   <p>Tecnologias usadas</p>
   <UL>
     <LI>Java</LI>
-    <LI>Python</LI>
-    <LI>C</LI>
+    // <LI>Python</LI>
+    // <LI>C</LI>
   </UL>
 
   <br>
