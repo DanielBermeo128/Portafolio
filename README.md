@@ -21,8 +21,9 @@
   <p>Tecnologias usadas</p>
   <UL>
     <LI>Java</LI>
-    // <LI>Python</LI>
-    // <LI>C</LI>
+    //Desarrollar evidencia <LI>Python</LI>
+    //Desarrollar evidencia <LI>C</LI>
+    //Desarrollar evidencia <LI>JavaScript</LI>
   </UL>
 
   <br>
@@ -30,6 +31,7 @@
   <p>Dentro de este directorio entontraras mis conocimientos en ciberseguridad como lo seran reportes y practicas</p>
   <p>Tecnologias usadas</p>
   <UL>
+    // Mejorar reportes con practicas individuales
     <LI>Metasploit</LI>
     <LI>Nessus Scanner</LI>
     <LI>Ngrok</LI>
