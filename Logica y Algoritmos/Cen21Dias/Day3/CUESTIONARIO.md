@@ -28,5 +28,4 @@
     <p>La literal es como tal la representacion del valor y aparece en numero y cada vez que se usa. La simbolica es la representacion de ese valor que puede ser usado de igual forma muchas veces, pero que es mas facil de modificar</p>
     <li>¿Cuál es el valor mínimo que puede contener una variable de tipo int?</li>
     <p>-32768 que es el valor de la mitad de los dos bytes que tiene int</p>
-
 </ol>
