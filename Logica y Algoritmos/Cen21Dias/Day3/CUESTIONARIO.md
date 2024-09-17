@@ -18,7 +18,7 @@
     <li>¿Cuáles son las dos ventajas de usar constantes simbolicas y no literales?</li>
     <p>La primera es que se hace mas entendible el codigo y la segunda es que es mas facil realizar cambios en donde se halla usado la misma literal cambiando solo su declaracion</p>
     <li>Muestre dos metodos para definir una constante simbolica llamada MAXIMUM y que tenga un valor de 100</li>
-    <p>#include MAXIMUM 100</p>
+    <p>#define MAXIMUM 100</p>
     <p>const int MAXIMUM 100;</p>
     <li>¿Que caracteres son permitidos en los nombres para variables y constantes?</li>
     <p>Caracteres alfanumericos y el guion bajo, se debe tomar en cuenta que no pueden comenzar por un caracter numerico y no se recomienda que inicien por guion bajo</p>
